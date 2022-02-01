@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Turner747
-- 👀 I’m interested in all things, software development
+- 👀 I’m interested in cybersecurity, devops, automation and software development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me @realJoshTurner7 on Twitter
