@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me @realJoshTurner7 on Twitter
+- 💻 Check out my website, www.joshmturner.com
 
 <!---
 Turner747/Turner747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
