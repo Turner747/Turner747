@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turner747
-- 👀 I’m interested in cybersecurity, devops, automation and software development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web application development
+- 🌱 I’m currently learning Java through uni and Javascript in my free time
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me @realJoshTurner7 on Twitter
 - 💻 Check out my website, www.joshmturner.com
