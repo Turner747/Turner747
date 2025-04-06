@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning Java through uni and C#, Javascript, Spring and other webdev stuff in my free time
-- 💞️ I’m starting as a Junior Developer at a MedTech company very soon
-- 📫 How to reach me @realJoshTurner7 on Twitter
-- 💻 Check out my website, www.joshmturner.com
+- 👀 I’m interested in Solution Architecture within the scope of Dynamics365
+- 🌱 I’m currently a Business System Developer for a medical software company in Australia
+- 💞️ I’m building internal cloud systems using a combination of Microsoft products and services such as Dynamics356 and Azure Services
+- 📫 I am a software developer embracing the power of low-code/no-code(LCNC) solutions.
 
 <!---
 Turner747/Turner747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
